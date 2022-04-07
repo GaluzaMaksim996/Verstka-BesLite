@@ -8,8 +8,8 @@ $(function () {
     infinite: true,
     slidesToShow: 4,
     slidesToScroll: 1,
-    prevArrow: '<button type="button" class="slick-arrow slick-prev"><img src="/images/works/slider/slide-left.svg" alt=""></button>',
-    nextArrow: '<button type="button" class="slick-arrow slick-next"><img src="/images/works/slider/slide-right.svg" alt=""></button>',
+    prevArrow: '<button type="button" class="slick-arrow slick-prev"><img src="images/works/slider/slide-left.svg" alt=""></button>',
+    nextArrow: '<button type="button" class="slick-arrow slick-next"><img src="images/works/slider/slide-right.svg" alt=""></button>',
     responsive: [
       {
         breakpoint: 911,
