@@ -182,6 +182,7 @@
 
 @media(max-width: 420px) {
   .slider__item-text {
+    width: 280px;
     font-size: 40px;
     line-height: 45px;
     margin-left: 20px;

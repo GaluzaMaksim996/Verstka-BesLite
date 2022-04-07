@@ -150,7 +150,7 @@ body {
 .header__drop-down > .menu__item-link::after {
   content: '';
   position: absolute;
-  background-image: url(images/down-arrow.png);
+  background-image: url(../images/down-arrow.png);
   width: 7px;
   height: 5px;
   right: 8px;
@@ -174,7 +174,7 @@ body {
 }
 
 .slider__item {
-  background-image: url(images/slider-img.jpg);
+  background-image: url(../images/slider-img.jpg);
   min-height: 440px;
 }
 
@@ -259,7 +259,7 @@ body {
 .info__item-link::before {
   content: '';
   position: absolute;
-  background-image: url(images/icons/arrow-right.svg);
+  background-image: url(../images/icons/arrow-right.svg);
   width: 5px;
   height: 7px;
   top: 3px;
@@ -278,7 +278,7 @@ body {
 .clients__logo-title::before {
   content: '';
   position: absolute;
-  background-image: url(images/works/works-cursor.svg);
+  background-image: url(../images/works/works-cursor.svg);
   top: 20px;
   left: 0;
   width: 14px;
@@ -362,13 +362,13 @@ body {
 }
 
 .clients__testimonials-title::before {
-  background-image: url(images/clients/testimonials-logo.svg);
+  background-image: url(../images/clients/testimonials-logo.svg);
   width: 24px;
   height: 23px;
 }
 
 .clients__logo-title::before {
-  background-image: url(images/clients/clients-logo.svg);
+  background-image: url(../images/clients/clients-logo.svg);
   width: 24px;
   height: 20px;
 }
@@ -412,7 +412,7 @@ body {
 .download__btn-link::before {
   content: '';
   position: absolute;
-  background-image: url(images/clients/download-icon.svg);
+  background-image: url(../images/clients/download-icon.svg);
   width: 28px;
   height: 25px;
   left: 19px;
